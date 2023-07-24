@@ -1,0 +1,26 @@
+{
+  "domainName": "cxnon.aws.nml.com",
+  "siteSubDomain": "int.column-funds",
+  "bucketName": "column-funds-int.cxnon.aws.nml.com",
+  "pageConfig": {
+    "nodeEnv": "dev",
+    "appName": "serverless-config-column-funds",
+    "appVersion": "0.0.0",
+    "basePath": "https://qa.new.northwesternmutual.com",
+    "nmxTemplateVersion": "3.1.29",
+    "adobeLaunchScript": "//assets.adobedtm.com/84f7e94eaa36/bb3bc880565f/launch-e98240bdad41-staging.min.js",
+    "heapAppId": "test",
+    "newRelicApplicationId": "test",
+    "newRelicLicenseKey": "test",
+    "public": {
+      "googlePlacesApiKey": "test",
+      "googleAnalyticsTrackingId": "test",
+      "recaptchaV3": "test"
+    },
+    "services": {
+      "loginPageUrl": "https://qa.login.northwesternmutual.com/login",
+      "loginPageUrlBase": "https://qa.login.northwesternmutual.com",
+      "userLogoutUrls": "https://qa.nmx.cxnon.apps.northwesternmutual.com/nmx-api-proxy/login/logouturls"
+    }
+  }
+}
